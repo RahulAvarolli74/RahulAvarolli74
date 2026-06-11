@@ -127,11 +127,12 @@ module.exports = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulAvarolli74&repo=Prism-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B61FF&icon_color=7B61FF&text_color=C9D1D9" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/RahulAvarolli74/EIS-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahulAvarolli74&repo=EIS-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B61FF&icon_color=7B61FF&text_color=C9D1D9" />
   </a>
-</p>
+</p> -->
+
 
 ---
 
