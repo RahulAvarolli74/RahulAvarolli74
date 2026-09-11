@@ -39,14 +39,14 @@ module.exports = {
   education: "KLE Technological University",
 
   languages: [
-    "JavaScript", "TypeScript", "Python",
+    "JavaScript", "Python",
     "Java", "C", "C++"
   ],
 
   interests: [
     "Full Stack Development",
     "AI-Powered Applications",
-    "Competitive Programming"
+    "Problem Solving"
   ],
 
 };
@@ -86,7 +86,7 @@ module.exports = {
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mapbox-4264FB?style=for-the-badge&logo=mapbox&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Mapbox-4264FB?style=for-the-badge&logo=mapbox&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
